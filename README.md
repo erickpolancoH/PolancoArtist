@@ -17,7 +17,7 @@
   <h2 id="cont1">view:0</h2>
 
 <!--aqui empieza tu pagina-->
-  <div class="border">
+  <div class="marginal">
 
 
     
@@ -69,7 +69,7 @@ src="coronavirus edition0001-2052.mkv"
                       </div>
                     
                     
-                      </image>
+   
 
                     <div class="footer">   
                         <div class="container-publicity">   
@@ -84,7 +84,7 @@ src="coronavirus edition0001-2052.mkv"
 
 
 
-  </image>
+
 </div>
 
 
