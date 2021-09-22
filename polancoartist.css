@@ -1,162 +1,104 @@
-body
-{
- padding: 1em;
- background-color:rgb(36, 36, 36);
-
-   font-family: roboto,sans-serif;
-}
-
-
-.marginal{
-    border: transparent ;
-    border-color: transparent ;
-    padding:1px;
+body{
+    background-color: rgb(46, 46, 46);
+    font-family: Arial, Helvetica, sans-serif;
     margin: auto;
-    width: 100%;
-    height: 200%;
-    display: block;
-background-color:rgb(36, 36, 36);
-
 }
 
+@media screen and (min-width: 414px) {
+
+    #my-video{
+        background-color: black;
+        width: 80%;
+        margin: 0 auto;
+    }
 
 .bio{
-    background-color:rgb(31, 141, 160);
-    width: 80%;
-    height: 150px;
-    border-radius: 50px;
-    padding:2%;
-    margin: auto;
+
+    background-color: black;
+    width: 100%;
+    height: 400px;
     display: block;
+    background-position: absolute;
     background-image: url(Pulgonmicroscopico.PNG);
     background-size: cover;
 }
 
+.cont1{
 
-h1{
-    color: white;
+    margin:  auto;
+    position: relative;
     text-align: center;
-    margin: auto;
     display: block;
+}
+h2{
+    color: white;
+   background-color: black;
+    text-align: center;
+    display: block;
+}
+
+
+.footer{
+    background-color: black;
+    width: 100%;
+    height: 200px;
+    padding: 1%;
+  
+}
+
+#cont1{
+    margin: 6%;
+    color: white;
+}
+
+img{
+    width: 30%;
+}
+
+
+
+}
+
+
+
+@media screen and (min-width: 1409px) {
+
+    #my-video{
+        background-color: black;
+        width: 70%;
+        margin:100px
+    }
+
+.bio{
+
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    height: 400px;
+    display: block;
+    background-position: absolute;
+    background-image: url(Pulgonmicroscopico.PNG);
+}
+
+h2{
+    color: white;
+   background-color: black;
+    text-align: center;
+    display: block;
+}
+
+.footer{
+    background-color: black;
+    width: 100%;
+    height: 200px;
+  
+}
+
+
+
+
+
     
 }
 
 
-.name{
-    background-color:transparent;
-    width: 100%;
-    height: 50px;
-    border-radius: 50px;
-    padding:2%;
-    margin: auto;
-
-    display: block;
-}
-
-.galeria{
-    background-color:transparent;
-    border: solid;
-    border-color:transparent;
-    width: 100%;
-    height: auto;
- 
-    padding:auto;
-    margin: -5%;
-    display: block;
-    background-position: center;
-}
-
-.footer{
-    background-color:transparent;
-    width: 80%;
-    height: 200px;
-    border-radius: 50px;
-    padding:auto;
-    margin: auto;
-    display: block;
-}
-
-
-
-/*counter database*/
-
-#cont1{
-    color: white;
-    width: 200px;
-    height: 6%;
-    content: 'hola';
-    background-color: rgb(219, 99, 43);
-    margin:auto;
-    text-align: center;
-    display: block;
-    padding:2%;
-    margin: auto;
-  
-    border-radius:50px;
-    background-position: center;
-}
-
-
-.video-js{
-
-background-color: transparent;
-background-position: relative;
-position: center;
-display: block;
-margin:auto;
-text-align: center;
-}
-
-
-.video-titulo{
-    text-align: center;
-}
-
-.parrafo{
-    text-align: center;
-    margin: auto;
-    padding:2%;
-    width: 100%;
-}
-
-#my-video{
-    width: 110%;
-height:auto;
-margin:auto;
-padding: 1px;
-background-clip: cover;
-background-position: center;
-text-align: center;
-display: block;
-}
-
-
-.container-publicity{
-    background-position: center;
-    background-color:rgb(98, 119, 91);
-    width: 60%;
-    height: 200px;
-    border-radius: 50px;
-    padding:auto;
-    margin: auto;
-    display: block;
-    background-image: url(logo\ branch.png);
-    background-size: cover;
-    align-items: center;
-
-}
-
-
-.image-container{
-    background-position: center;
-    background-color:rgb(114, 161, 98);
-    background-image: url(pulgon\ microscopicox.PNG);
-    width: 90%;
-    height: 600px;
-    border-radius: 50px;
-    padding:auto;
-    margin: auto;
-    display: block;
-     background-size: cover;
-
-}
