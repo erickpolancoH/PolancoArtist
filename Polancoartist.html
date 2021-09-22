@@ -24,7 +24,6 @@
      
      <div class="bio">
 
-      <img src="Pulgonmicroscopico.PNG" alt="">
      </div>
     
    
@@ -64,8 +63,8 @@ src="coronavirus edition0001-2052.mkv"
                     </div>
 <!--galeria de foto-->
 
-                    <div class= galeria>
-                      <divi class="image-container">
+                    <div class= image-container
+                      <divi class="image-container"></divi>
 
                       </div>
                     
