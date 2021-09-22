@@ -30,7 +30,7 @@ body{
     text-align: center;
     display: block;
 }
-h2{
+.name{
     color: white;
    background-color: black;
     text-align: center;
@@ -92,7 +92,7 @@ img{
     text-align: center;
     display: block;
 }
-h2{
+.name{
     color: white;
    background-color: black;
     text-align: center;
@@ -142,7 +142,7 @@ img{
     background-image: url(Pulgonmicroscopico.PNG);
 }
 
-h2{
+.name{
     color: white;
    background-color: black;
     text-align: center;
