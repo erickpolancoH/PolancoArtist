@@ -23,7 +23,7 @@ body{
     background-size: cover;
 }
 
-.cont1{
+#cont1{
 
     margin:  auto;
     position: relative;
@@ -32,7 +32,7 @@ body{
 }
 .name{
     color: white;
-   background-color: black;
+   background-color:transparent;
     text-align: center;
     display: block;
 }
@@ -85,7 +85,7 @@ img{
     background-size: cover;
 }
 
-.cont1{
+#cont1{
 
     margin:  auto;
     position: relative;
@@ -94,7 +94,7 @@ img{
 }
 .name{
     color: white;
-   background-color: black;
+   background-color:transparent;
     text-align: center;
     display: block;
 }
@@ -144,7 +144,7 @@ img{
 
 .name{
     color: white;
-   background-color: black;
+   background-color:transparent;
     text-align: center;
     display: block;
     font-weight: 700;
