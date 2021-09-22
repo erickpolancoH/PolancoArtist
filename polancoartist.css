@@ -8,7 +8,7 @@ body
 
 
 .border{
-    border: solid ;
+    border: transparent ;
     border-color: transparent ;
     padding:1px;
     margin: auto;
