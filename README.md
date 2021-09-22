@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -63,7 +63,7 @@ src="coronavirus edition0001-2052.mkv"
                     </div>
 <!--galeria de foto-->
 
-                    <div class= image-container
+                    <div class= image-container>
                       <divi class="image-container"></divi>
 
                       </div>
