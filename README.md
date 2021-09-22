@@ -1,6 +1,3 @@
-# PolancoArtist
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,7 +22,10 @@
 
     
      
-     <div class="bio"></div>
+     <div class="bio">
+
+      <img src="Pulgonmicroscopico" alt="">
+     </div>
     
    
            
@@ -98,3 +98,4 @@ src="coronavirus edition0001-2052.mkv"
 
                             <script src="polancoartist.js"></script>
 </body>
+</html>
