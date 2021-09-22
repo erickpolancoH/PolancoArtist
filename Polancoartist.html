@@ -24,7 +24,7 @@
      
      <div class="bio">
 
-      <img src="Pulgonmicroscopico" alt="">
+      <img src="Pulgonmicroscopico.PNG" alt="">
      </div>
     
    
