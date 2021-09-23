@@ -46,11 +46,11 @@ preload="auto"
 width="400"
 poster="Propiedades de los virus.png"
 data-setup="{}"
-src="coronavirus edition0001-2052.mkv"
+src="RNAvirus.mkv"
 
 ></video>
 
-<source src="coronavirus edition0001-2052.mkv" type="video/mkb" />
+<source src="RNAvirus.mkv" type="video/mkb" />
 
 
 
