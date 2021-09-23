@@ -9,7 +9,12 @@
     <script src="Polancoartistcounter.php"></script>
     <link rel="stylesheet" href="polancoartist.css">
     <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet" />
+   
     <link rel="stylesheet" href="normalize.css">
+   
+    <link
+    href="https://unpkg.com/@videojs/themes@1/dist/city/index.css"
+    rel="stylesheet"
     <title>Document</title>
 </head>
 <body >
@@ -46,12 +51,12 @@ preload="auto"
 width="400"
 poster="Propiedades de los virus.png"
 data-setup="{}"
-src="RNAvirus.mkv"
 playsinline="true"
-type="video/mkb" 
+source src="RNAvirus.mkv" type="video/mkb" />
+
 ></video>
 
-<source src="RNAvirus.mkv" type="video/mkb" />
+
 
 
 
@@ -80,7 +85,7 @@ type="video/mkb"
 
                             <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet" />
 
-             
+                            
                            <script src="polancoartist.js"></script>
 </div>
 
