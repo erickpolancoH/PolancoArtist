@@ -46,7 +46,8 @@ body{
 
  #cont1{
      color: white;
-     margin:4%;
+     margin:0 auto;
+     background-color:black;
  }
 
 .name {
