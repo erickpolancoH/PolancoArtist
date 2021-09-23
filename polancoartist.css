@@ -50,7 +50,7 @@ body{
      margin:0 auto;
      padding:1%;
      background-color:black;
-     width: 100px;
+     width: 200px;
      border-radius: 15px;
  }
 
@@ -97,4 +97,6 @@ img {
   height: 200px;
   border-radius: 15px;
   margin-top: 10px;
+  background-image: url(niracn.PNG);
+  background-size: cover;
 }
