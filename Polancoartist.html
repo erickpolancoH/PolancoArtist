@@ -15,7 +15,7 @@
 <body >
 <!--este es tu contador-->
   <h2 id="cont1">view:0</h2>
-
+<br>
 <!--aqui empieza tu pagina-->
  
 <div class="container">
@@ -26,7 +26,7 @@
 
      </div>
     
-   
+ 
            
 
     <div class="name">Polancoartist</div>
