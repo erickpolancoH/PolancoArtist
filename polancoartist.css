@@ -1,7 +1,8 @@
 body{
-    background-color: rgb(46, 46, 46);
+    background-color: white;
     font-family: Arial, Helvetica, sans-serif;
     margin: auto;
+    
 }
 
 .container {
@@ -47,23 +48,29 @@ body{
  #cont1{
      color: white;
      margin:0 auto;
+     padding:1%;
      background-color:black;
+     width: 100px;
+     border-radius: 15px;
  }
 
 .name {
     color: white;
-    background-color:black;
+    background-color:rgb(153, 0, 158);
     margin:auto;
     font-size: 30pt;
     width: 400;
+    border-radius: 15px;
+    padding: 2px;
 }
 .footer{
 
-    background-color:black;
+    background-color:rgb(0, 91, 128);
     margin:auto;
-    padding:1%;
+    padding:3%;
     width: 400;
     height: 200px;
+    border-radius: 15px;
 }
 
 img {
@@ -75,4 +82,5 @@ img {
 
 #my-video{
     margin:0;
+    border-radius: 15px;
 }
