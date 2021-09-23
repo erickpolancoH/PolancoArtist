@@ -12,9 +12,8 @@
    
     <link rel="stylesheet" href="normalize.css">
    
-    <link
-    href="https://unpkg.com/@videojs/themes@1/dist/city/index.css"
-    rel="stylesheet"
+    <link href="https://unpkg.com/@videojs/themes@1/dist/city/index.css"
+    rel="stylesheet"/>
     <title>Document</title>
 </head>
 <body >
