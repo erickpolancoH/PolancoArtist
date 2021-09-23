@@ -41,14 +41,14 @@
  
 <video id="my-video"
 class="video-js"
-controls
+controls="true"
 preload="auto"
 width="400"
 poster="Propiedades de los virus.png"
 data-setup="{}"
 src="RNAvirus.mkv"
 playsinline="true"
-
+type="video/mkb" 
 ></video>
 
 <source src="RNAvirus.mkv" type="video/mkb" />
