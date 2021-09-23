@@ -54,13 +54,14 @@ body{
     background-color:black;
     margin:auto;
     font-size: 30pt;
+    width: 400;
 }
 .footer{
 
     background-color:black;
     margin:auto;
     padding:1%;
-    width: 100%;
+    width: 400;
     height: 200px;
 }
 
