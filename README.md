@@ -9,7 +9,7 @@
     <script src="Polancoartistcounter.php"></script>
     <link rel="stylesheet" href="polancoartist.css">
     <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet" />
-
+    <link rel="stylesheet" href="normalize.css">
     <title>Document</title>
 </head>
 <body >
@@ -18,7 +18,7 @@
 
 <!--aqui empieza tu pagina-->
  
-
+<div class="container">
 
     
      
@@ -29,10 +29,7 @@
    
            
 
-    <div class="name">  
-      
-        <h1>PolancoArtist</h1>
-            </div>
+    <div class="name">Polancoartist</div>
            
 
 <!--Galeria de videos va aqui-->
@@ -82,6 +79,9 @@ src="coronavirus edition0001-2052.mkv"
 
                             <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet" />
 
-                            <script src="polancoartist.js"></script>
-</body>
+             
+                           <script src="polancoartist.js"></script>
+</div>
+
+ </body>
 </html>
