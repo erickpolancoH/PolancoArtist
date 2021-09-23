@@ -11,9 +11,7 @@
     <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet" />
    
     <link rel="stylesheet" href="normalize.css">
-   
-    <link href="https://unpkg.com/@videojs/themes@1/dist/city/index.css"
-    rel="stylesheet"/>
+  
     <title>Document</title>
 </head>
 <body >
