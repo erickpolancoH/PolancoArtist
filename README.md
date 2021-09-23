@@ -47,6 +47,7 @@ width="400"
 poster="Propiedades de los virus.png"
 data-setup="{}"
 src="RNAvirus.mkv"
+playsinline="true"
 
 ></video>
 
