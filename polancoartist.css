@@ -1,7 +1,7 @@
 body{
     background-color: white;
     font-family: Arial, Helvetica, sans-serif;
-    margin: auto;
+  
     
 }
 
@@ -10,11 +10,15 @@ body{
   margin: auto;
     height:200px;
     background-color:transparent;  
+    padding:2%;
+    margin: 0 auto;
   }
   
   @media (min-width: 414px) {
     .container {
       max-width: 400px;
+      padding:2%;
+      margin: 0 auto;
       
     }
   }
@@ -22,6 +26,8 @@ body{
   @media (min-width: 768px) {
     .container {
       max-width: 720px;
+      padding:2%;
+      margin: 0 auto;
      	
     }
   }
@@ -29,6 +35,8 @@ body{
   @media (min-width: 992px) {
     .container {
       max-width: 960px;
+      padding:2%;
+      margin: 0 auto;
      	
     }
   }
@@ -36,11 +44,15 @@ body{
   @media (min-width: 1200px) {
     .container {
       max-width: 1140px;
+      padding:2%;
+      margin: 0 auto;
      		
     }
 
     my-video{
         width: 100%;
+        padding:2%;
+        margin: 0 auto;
     }
   }
 
@@ -82,10 +94,14 @@ img {
 }
 
 
-#my-video{
+#myplayerId{
     margin:0;
+    padding:1px;
+    width: 400px;
+    height: 500px;
     border-radius: 15px;
     margin-top: 10px;
+   
 }
 
 .bio{
@@ -100,3 +116,12 @@ img {
   background-image: url(niracn.PNG);
   background-size: cover;
 }
+
+.canvascontainer{
+  width: 300px;
+  height: 300px;
+  padding:2%;
+}
+
+
+

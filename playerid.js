@@ -1,0 +1,1 @@
+var myVideo = videojs(videoEl, { controls: true });
