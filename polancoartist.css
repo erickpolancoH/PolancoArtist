@@ -1,127 +1,125 @@
 body{
-    background-color: white;
-    font-family: Arial, Helvetica, sans-serif;
-  
-    
-}
-
-.container {
-    width:100%;
-  margin: auto;
-    height:200px;
-    background-color:transparent;  
-    padding:2%;
-    margin: 0 auto;
-  }
-  
-  @media (min-width: 414px) {
-    .container {
-      max-width: 400px;
-      padding:2%;
-      margin: 0 auto;
-      
-    }
-  }
-  
-  @media (min-width: 768px) {
-    .container {
-      max-width: 720px;
-      padding:2%;
-      margin: 0 auto;
-     	
-    }
-  }
-  
-  @media (min-width: 992px) {
-    .container {
-      max-width: 960px;
-      padding:2%;
-      margin: 0 auto;
-     	
-    }
-  }
-  
-  @media (min-width: 1200px) {
-    .container {
-      max-width: 1140px;
-      padding:2%;
-      margin: 0 auto;
-     		
-    }
-
-    my-video{
-        width: 100%;
-        padding:2%;
-        margin: 0 auto;
-    }
-  }
-
-
- #cont1{
-     color: white;
-     margin:0 auto;
-     padding:1%;
-     background-color:black;
-     width: 200px;
-     border-radius: 15px;
- }
-
-.name {
-    color: white;
-    background-color:rgb(153, 0, 158);
-    margin:auto;
-    font-size: 30pt;
-    width: 400;
-    border-radius: 15px;
-    padding: 2px;
-    margin-top: 10px;
-}
-.footer{
-
-    background-color:rgb(0, 91, 128);
-    margin:auto;
-    padding:3%;
-    width: 400;
-    height: 200px;
-    border-radius: 15px;
-}
-
-img {
-    width: 30%;
-    margin:auto;
-    border-radius: 30px;
-    margin-top: 10px;
-}
-
-
-#myplayerId{
-    margin:0;
-    padding:1px;
-    width: 400px;
-    height: 500px;
-    border-radius: 15px;
-    margin-top: 10px;
-   
-}
-
-.bio{
-
-  background-color:rgb(0, 91, 128);
-  margin:auto;
-  padding:3%;
-  width: 400;
-  height: 200px;
-  border-radius: 15px;
-  margin-top: 10px;
-  background-image: url(niracn.PNG);
-  background-size: cover;
-}
-
-.canvascontainer{
-  width: 300px;
-  height: 300px;
+  background-color: white;
+  font-family: 'Roboto', sans-serif;
+  margin:0;
   padding:2%;
 }
 
+.galeria{
+  margin:0 auto;
+  padding:2%;
+ 
+}
 
 
+.name{
+  color: white;
+  background-color: rgb(246, 96, 58);
+  width:100%;
+  height:60px;
+ margin: auto;
+ text-align:center;
+ font-size:30pt;
+ border-radius:50px; 
+ margin-top: 14px !important;
+}
+
+
+#mivideo{
+
+  margin: 0 auto;
+ margin-left: 10px;
+  width: 400px;
+  height: 500px;
+  border-radius:50px;
+  margin-top: 14px !important;
+  float:left;
+
+background-position: relative;
+}
+#mivideo2{
+  margin:  0 auto;
+  margin-left: 10px;
+  padding:0;
+  width: 400px;
+  height: 500px;
+  border-radius:50px;
+  margin-top: 14px !important;
+float:left;
+background-position: relative;
+}
+
+#mivideo3{
+  margin:  0 auto;
+  margin-left: 10px;
+  width: 400px;
+  height: 500px;
+  padding:0;
+  border-radius:50px;
+  margin-top: 14px !important;
+float:left;
+background-position: relative;
+}
+
+
+
+.footer{
+background-color:blue ;
+margin: 0 auto;
+width: 100%;
+height: 300px;
+margin-top: auto !important;
+border-radius:50px;
+float:left;
+
+}
+
+@media (min-width: 1281px) {
+  .container{
+    width: 1281px;
+   
+  }
+}
+@media (min-width: 1025px) and (max-width: 1280px) {
+  .container{
+    width: 1280px;
+   
+  }
+
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+
+  .container{
+    width: 1024px;
+   
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  .container{
+    width: 768px;
+   
+  }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+  .container{
+    width: 481px;
+   
+  }
+  
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  .container{
+    width: 400px;
+
+   
+  }
+}
+
+
+.container{
+  width: 400px;
+padding: 14px;
+ 
+}

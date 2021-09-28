@@ -5,26 +5,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="polancoartist.css">
+    <link rel="stylesheet" href="View.scss">
     <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet" />
     <link rel="stylesheet" href="normalize.css"> 
+   <link rel="stylesheet" href="tooltip.css">
     <title>Document</title>
 </head>
 <body >
+
+  <div class="container"></div>
 <!--este es tu contador-->
 
-
+<div class="statistics"></div>
+  
 <!--aqui empieza tu pagina-->
  
-<div class="container">
 
     
-     
-     <div class="bio">
-
-     </div>
-    
- 
-           
+      <!--Nombre-->      
 
     <div class="name">Polancoartist</div>
            
@@ -36,7 +34,7 @@
 <div class="galeria">   
                 
   <video
-  id="myplayerId"
+  id="mivideo"
   class="video-js"
   controls
   preload="auto"
@@ -45,30 +43,52 @@ playsinline="true"
   data-setup="{}"
   source src="http://" 
   type="video/mp4"></video>
-<br>
 
 
 
 
+                
+    <video
+    id="mivideo2"
+    class="video-js"
+    controls
+    preload="auto"
+  poster="MY_VIDEO_POSTER.jpg"
+  playsinline="true"
+    data-setup="{}"
+    source src="http://" 
+    type="video/mp4"></video>
+  
+    <video
+    id="mivideo3"
+    class="video-js"
+    controls
+    preload="auto"
+  poster="MY_VIDEO_POSTER.jpg"
+  playsinline="true"
+    data-setup="{}"
+    source src="http://" 
+    type="video/mp4"></video>
+  
+  
+
+</div>
 
 
-
-
-
-
-
-
-
-
- <!--galeria publicitaria-->            
+<!--galeria publicitaria-->            
    
 
   <div class="footer">
 
-             
- <img src="logo branch.png" alt="">
-               
+  
 
+    <div class="image-content1"></div>
+                                     
+    <div class="image-content2"></div>
+
+        <div class="image-content3"></div>       
+           
+        <div class="image-content4"></div>
                   
 
  </div>
@@ -78,11 +98,7 @@ playsinline="true"
   <!--Graficos estadisticos--> 
 
 
-<div class="statistics">
 
-"VISITORS:+1"
-
-</div>
                          
                                                        
                           
