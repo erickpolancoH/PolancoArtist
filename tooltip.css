@@ -49,6 +49,8 @@
   margin: 0 auto;
   margin-left: auto;
   background-color: black;
+  background-size: cover;
+  background-image: url(polancoartistlogo.PNG);
   border-radius: 100%;
 background-position: center;
 margin-top: 14px;
