@@ -134,13 +134,10 @@ float:left;
   }
 }
 
-@media (min-width: 1281px) {
-  .container{
-    width: 1281px;
-   
-  }
-}
 
+.container{
+  width: 100%;
+}
 
 
 
@@ -190,8 +187,8 @@ float:left;
   
 .image-content{
 
-width: 150px;
-height: 150px;
+width: 100px;
+height: 100px;
 margin: 0 auto;
 margin-left: auto;
 background-color: black;
