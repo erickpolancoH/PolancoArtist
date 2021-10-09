@@ -1,6 +1,6 @@
 body{
-  background-color:transparent;
-  background-image: url(humo.png);
+  
+
   background-repeat:no-repeat;
 
   font-family: 'Roboto', sans-serif;
@@ -140,5 +140,5 @@ float:left;
 .container{
   width: 400px;
 padding: 14px;
- 
+background-image: url(humo.png);
 }
