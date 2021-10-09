@@ -46,7 +46,7 @@ margin-top: 14px;
   height: 500px;
   border-radius:50px;
   margin-top: 14px !important;
-display: inline;
+display: flex;
 background-position: relative;
 }
 
