@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="View.scss">
     <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet" />
     <link rel="stylesheet" href="normalize.css"> 
-   <link rel="stylesheet" href="tooltip.css">
+ 
     <title>Document</title>
 </head>
 <body >
