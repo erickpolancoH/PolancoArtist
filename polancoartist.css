@@ -134,12 +134,15 @@ float:left;
   }
 }
 
-
-.container{
-  width: 1280px;
-padding: 14px;
-
+@media (min-width: 1281px) {
+  .container{
+    width: 1281px;
+   
+  }
 }
+
+
+
 
 .statistics{
   color:white;
