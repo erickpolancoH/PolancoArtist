@@ -37,7 +37,7 @@ margin-top: 14px;
 
 
 #mivideo{
-  width: 400px;
+  width: 350px;
   height: 500px;
   border-radius:50px;
   margin-top: 14px !important;
@@ -48,8 +48,8 @@ background-position: relative;
 
 
 #mivideo2{
-  padding:0;
-  width: 400px;
+
+  width: 350px;
   height: 500px;
   border-radius:50px;
   margin-top: 14px !important;
@@ -61,7 +61,7 @@ float:left;
 
 #mivideo3{
 
-  width: 400px;
+  width: 350px;
   height: 500px;
   padding:0;
   border-radius:50px;
