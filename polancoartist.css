@@ -3,7 +3,7 @@ body{
   background-color: black;
   font-family: 'Roboto', sans-serif;
   margin:0;
-  padding:2%;
+  padding:1%;
 }
 .perfil{
 
@@ -46,7 +46,8 @@ margin-top: 14px;
   height: 500px;
   border-radius:50px;
   margin-top: 14px !important;
-display: flex;
+  margin-right: 5px;
+ float:left;
 background-position: relative;
 }
 
@@ -58,8 +59,10 @@ background-position: relative;
   height: 500px;
   border-radius:50px;
   margin-top: 14px !important;
+  margin-right: 5px;
 background-position: relative;
-float: left;
+float:left;
+
 }
 
 #mivideo3{
@@ -69,6 +72,7 @@ float: left;
   padding:0;
   border-radius:50px;
   margin-top: 14px !important;
+  margin-right: 5px;
 float:left;
 background-position: relative;
 }
@@ -186,7 +190,7 @@ float:left;
 width: 100px;
 height: 100px;
 margin: 0 auto;
-margin-left: 10px;
+
 background-color: black;
 background-size: cover;
 background-image: url(polancoartistlogo.PNG);
