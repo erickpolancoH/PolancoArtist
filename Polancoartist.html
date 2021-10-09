@@ -4,32 +4,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="polancoartist.js"></script>
-   
-    <script src="Polancoartistcounter.php"></script>
     <link rel="stylesheet" href="polancoartist.css">
+    <link rel="stylesheet" href="View.scss">
     <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet" />
-   
-    <link rel="stylesheet" href="normalize.css">
-  
+    <link rel="stylesheet" href="normalize.css"> 
+   <link rel="stylesheet" href="tooltip.css">
     <title>Document</title>
 </head>
 <body >
+
+  <div class="container"></div>
 <!--este es tu contador-->
-  <h2 id="cont1">view:0</h2>
-<br>
+
+<div class="statistics"></div>
+ 
+  
+  
 <!--aqui empieza tu pagina-->
  
-<div class="container">
-
-    
-     
-     <div class="bio">
-
-     </div>
-    
- 
-           
+  <!--perfil--> 
+  <div class="perfil"></div>
+      <!--Nombre-->      
 
     <div class="name">Polancoartist</div>
            
@@ -40,51 +35,91 @@
 
 <div class="galeria">   
                 
- 
-<video id="my-video"
-class="video-js"
-controls="true"
-preload="auto"
-width="400"
-poster="Propiedades de los virus.png"
-data-setup="{}"
+  <video
+  id="mivideo"
+  class="video-js"
+  controls
+  preload="auto"
+poster="tvirusportada.png"
 playsinline="true"
-source src="RNAvirus.mkv" type="video/mkb" />
 
-></video>
+autoplay="false"
+loop="true"
+plaBackRate="true"
+  data-setup="{}"
+  source src="tipos de virus0001-1143.mp4" 
+  type="video/mp4"></video>
 
 
 
 
+                
+    <video
+    id="mivideo2"
+    class="video-js"
+    controls
+    preload="auto"
+  poster="aves del arroz.png"
+  playsinline="true"
+    data-setup="{}"
+    source src="aves del arroz.mp4" 
+    type="video/mp4"></video>
+  
+    <video
+    id="mivideo3"
+    class="video-js"
+    controls
+    preload="auto"
+  poster="MY_VIDEO_POSTER.jpg"
+  playsinline="true"
+    data-setup="{}"
+    source src="http://" 
+    type="video/mp4"></video>
+  
+  
+  
+  
+</div>
+<!--el codigo de video source-->
 
 
- <!--galeria publicitaria-->            
+
+<script type="text/javascript"></script>
+<script src="polancoartists.js"></script>
+
+
+<!--galeria publicitaria-->            
    
-<br><br>
-                    <div class="footer">
 
-             
-                    <img src="logo branch.png" alt="">
-               
+  <div class="footer">
+
+
+
+    <a  class="image-content" href="" ></a>
+                                     
+    <a class="image-content" href=""></a>
+   
+        <a class="image-content" href=""></a>
+        
+
+        </div>       
+           
+     
+                                     
+   
+    
+     
+ </div>
+
 
                   
-
-                    </div>
-                            
-                     
+  <!--Graficos estadisticos--> 
 
 
 
-
-
-             
-
-
-                            <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet" />
-
-                            
-                           <script src="polancoartist.js"></script>
-</div>
+                         
+                                                       
+                          
 
  </body>
 </html>
