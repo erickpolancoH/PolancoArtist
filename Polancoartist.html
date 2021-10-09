@@ -32,8 +32,7 @@
 <!--Galeria de videos va aqui-->
            
 
-
-<div class="galeria">   
+ 
                 
   <video
   id="mivideo"
@@ -42,7 +41,6 @@
   preload="auto"
 poster="tvirusportada.png"
 playsinline="true"
-
 autoplay="false"
 loop="true"
 plaBackRate="true"
@@ -79,7 +77,7 @@ plaBackRate="true"
   
   
   
-</div>
+
 <!--el codigo de video source-->
 
 
