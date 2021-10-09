@@ -1,4 +1,5 @@
 body{
+  background-image: url(humo.PNG);
   background-color: black;
   font-family: 'Roboto', sans-serif;
   margin:0;
@@ -80,7 +81,7 @@ background-position: relative;
 
 
 .footer{
-background-color:blue ;
+background-color:transparent ;
 margin: 0 auto;
 width: 100%;
 height: 300px;
@@ -135,9 +136,9 @@ float:left;
 
 
 .container{
-  width: 400px;
+  width: 1280px;
 padding: 14px;
-background-image: url(humo.png);
+
 }
 
 .statistics{
