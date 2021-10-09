@@ -13,7 +13,7 @@
 </head>
 <body >
 
-  <div class="container"></div>
+  <div class="container">
 <!--este es tu contador-->
 
 <div class="statistics"></div>
