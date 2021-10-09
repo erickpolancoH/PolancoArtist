@@ -42,12 +42,11 @@ float: left;
 
 
 #mivideo{
-
-  margin: 0 auto;
   width: 400px;
   height: 500px;
   border-radius:50px;
-  margin-top: 14px !important; 
+  margin-top: 14px !important;
+
 background-position: relative;
 }
 
@@ -59,13 +58,11 @@ background-position: relative;
   height: 500px;
   border-radius:50px;
   margin-top: 14px !important;
-
 background-position: relative;
 }
 
 #mivideo3{
   margin:  0 auto;
- 
   width: 400px;
   height: 500px;
   padding:0;
