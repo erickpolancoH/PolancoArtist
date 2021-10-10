@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+</html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +10,7 @@
     <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet" />
     <link rel="stylesheet" href="normalize.css"> 
  
-    <title>Document</title>
+   
 </head>
 <body >
 
@@ -57,10 +58,10 @@ plaBackRate="true"
     class="video-js"
     controls
     preload="auto"
-  poster="aves del arroz.png"
+  poster="tardigrados portada.png"
   playsinline="true"
     data-setup="{}"
-    source src="aves del arroz.mp4" 
+    source src="tardigrados.mp4" 
     type="video/mp4"></video>
   
     <video
