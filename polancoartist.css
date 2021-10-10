@@ -1,7 +1,6 @@
 body{
-  background-image: url(humo.PNG);
   background-position: center center;
-  background-color: black;
+  background-color: rgb(5, 22, 36);
   font-family: 'Roboto', sans-serif;
 
 }
@@ -55,6 +54,7 @@ background-position: relative;
   margin-top: 14px !important;
   margin-right: 5px;
 background-position: relative;
+
 float:left;
 
 }
