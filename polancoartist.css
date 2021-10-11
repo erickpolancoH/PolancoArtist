@@ -1,8 +1,9 @@
 body{
-  background-position: center center;
-  background-color: rgb(5, 22, 36);
+  background-position:center;
+  background-color: rgb(231, 225, 188);
   font-family: 'Roboto', sans-serif;
-
+background-repeat: no-repeat;
+background-size: cover;
 }
 .perfil{
 
@@ -43,31 +44,10 @@ margin-top: 14px;
   margin-right: 5px;
  float:left;
 background-position: relative;
-}
-
-
-#mivideo2{
-  width: 350px;
-  height: 500px;
-  border-radius:50px;
-  margin: 0 auto;
-  margin-top: 14px !important;
-  margin-right: 5px;
-background-position: relative;
-
-float:left;
 
 }
 
-#mivideo3{
-  width: 350px;
-  height: 500px;
-  border-radius:50px;
-  margin-top: 14px !important;
-  margin-right: 5px;
-float:left;
-background-position: relative;
-}
+
 
 
 
@@ -152,7 +132,7 @@ float:left;
 
 .statistics:after {
 
-  content:'visiors+2'; 
+  content:'visitors+2'; 
   visibility: visible;
   background-color:black;
   width:200px ;

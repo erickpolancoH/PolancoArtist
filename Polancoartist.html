@@ -54,7 +54,7 @@ plaBackRate="true"
 
                 
     <video
-    id="mivideo2"
+    id="mivideo"
     class="video-js"
     controls
     preload="auto"
@@ -65,7 +65,7 @@ plaBackRate="true"
     type="video/mp4"></video>
   
     <video
-    id="mivideo3"
+    id="mivideo"
     class="video-js"
     controls
     preload="auto"
