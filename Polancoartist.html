@@ -13,7 +13,7 @@
    
 </head>
 <body >
-
+<header><header>
   <div class="container">
 <!--este es tu contador-->
 
@@ -69,10 +69,10 @@ plaBackRate="true"
     class="video-js"
     controls
     preload="auto"
-  poster="MY_VIDEO_POSTER.jpg"
+  poster="division celular.png"
   playsinline="true"
     data-setup="{}"
-    source src="http://" 
+    source src="division celular.mp4" 
     type="video/mp4"></video>
   
   
