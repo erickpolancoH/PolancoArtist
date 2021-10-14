@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 </html>
 <html lang="en">
 <head>
@@ -13,8 +13,13 @@
    
 </head>
 <body >
-<header><header>
-  <div class="container">
+<header>
+
+    <img class="responsive"  src="meduzas.PNG">
+
+ 
+  
+  <header>
 <!--este es tu contador-->
 
 <div class="statistics"></div>
