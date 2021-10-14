@@ -1,16 +1,22 @@
 body{
   background-position:center;
-  background-color: rgb(236, 228, 173);
+  background-color: rgb(39, 39, 39);
   font-family: 'Roboto', sans-serif;
 background-repeat: no-repeat;
 background-size: cover;
 }
 
-
-header{
-  display:hidden;
-  color:transparent;
+.responsive{
+  
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
 }
+
+
+
+
+
 .perfil{
 
   width: 150px;
@@ -31,7 +37,7 @@ margin-top: 14px;
 
 .name{
   color: rgb(255, 254, 254);
-  background-color: rgb(39, 39, 39);
+  background-color: rgb(0, 0, 0);
   width: 360px;
   height:60px;
  margin: 0 auto;
@@ -137,7 +143,7 @@ float:left;
 
 .statistics:after {
 
-  content:'visitors+2'; 
+  content:'visitors+212'; 
   visibility: visible;
   background-color:black;
   width:200px ;
@@ -177,3 +183,4 @@ background-position: center;
 margin-top: 14px;
 
 }
+
