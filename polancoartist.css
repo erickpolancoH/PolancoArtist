@@ -58,7 +58,7 @@ margin-top: 14px;
   margin-right: 5px;
 float: left;
 background-position: relative;
-margin: 10px;
+
 
 }
 
@@ -176,8 +176,6 @@ float:left;
 
 width: 100px;
 height: 100px;
-
-
 background-color: black;
 background-size: cover;
 background-image: url(polancoartistlogo.PNG);
@@ -186,4 +184,4 @@ background-position: center;
 margin-top: 14px;
 
 
-
+}
