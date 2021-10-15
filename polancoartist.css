@@ -1,9 +1,10 @@
 body{
+  background-color: rgb(19, 19, 19);
   background-position:center;
-  background-color: rgb(39, 39, 39);
   font-family: 'Roboto', sans-serif;
 background-repeat: no-repeat;
 background-size: cover;
+padding: 10px;
 }
 
 .responsive{
@@ -55,8 +56,9 @@ margin-top: 14px;
   border-radius:50px;
   margin-top: 14px !important;
   margin-right: 5px;
- float:left;
+float: left;
 background-position: relative;
+margin: 45px;
 
 }
 
@@ -144,7 +146,7 @@ float:left;
 
 .statistics:after {
 
-  content:'visitors+212'; 
+  content:'Muy buenos dias'; 
   visibility: visible;
   background-color:black;
   width:200px ;
@@ -185,3 +187,24 @@ margin-top: 14px;
 
 }
 
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  height: 40vh;
+  flex-grow: 1;
+  color: transparent;
+}
+
+img {
+  max-height: 100%;
+  min-width: 100%;
+  object-fit: cover;
+  vertical-align: bottom;
+}
+
+li:last-child {
+  flex-grow: 10;
+}
