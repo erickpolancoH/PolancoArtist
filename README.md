@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 </html>
 <html lang="en">
 <head>
@@ -14,7 +14,7 @@
 </head>
 <body >
 <header>
-  <img class="responsive"  src="hembrion.PNG">
+  <div class="responsive"></div>
 
  
   
