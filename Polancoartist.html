@@ -14,8 +14,7 @@
 </head>
 <body >
 <header>
-
-    <img class="responsive"  src="meduzas.PNG">
+  <img class="responsive"  src="hembrion.PNG">
 
  
   
@@ -92,7 +91,7 @@ plaBackRate="true"
 
     <!-- Galeria de arte--> 
 
-    <img class="responsive" src="hembrion.PNG">
+    
 
    
 
