@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="View.scss">
     <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet" />
     <link rel="stylesheet" href="normalize.css"> 
- 
+    
    
 </head>
 <body >
@@ -91,9 +91,41 @@ plaBackRate="true"
 <script type="text/javascript"></script>
 <script src="polancoartists.js"></script>
 
+    <!-- Galeria de arte--> 
 
+    <ul>
+      <li>
+        <img src="pulgon microscopicox.PNG">
+      </li>
+      <!-- ... -->
+      <li>
+        <img src="niracn.PNG">
+      </li>
+     <!-- ... -->
+    <li>
+      <img src="amorfo.PNG">
+    </li>
+
+    <li>
+      <img src="amorfo2.PNG">
+    </li>
+    <li>
+      <img src="acaros.PNG">
+    </li>
+
+    <li>
+      <img src="hembrion.PNG">
+    </li>
+
+  </ul>
+
+   
+
+
+ 
 <!--galeria publicitaria-->            
    
+<footer>
 
   <div class="footer">
 
@@ -106,18 +138,24 @@ plaBackRate="true"
         <a class="image-content" href=""></a>
         
 
-        </div>       
+        </div>     
+
+
+</footer>
+     
            
      
-                                     
-   
-    
      
+
+
+
+
+
  </div>
 
 
                   
-  <!--Graficos estadisticos--> 
+
 
 
 
