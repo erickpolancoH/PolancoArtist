@@ -10,9 +10,10 @@ padding: 10px;
 .responsive{
   
   margin: 0 auto;
-  width: 60%;
+  width: 100%;
   height: auto;
   border-radius: 50px;
+ 
 }
 
 
