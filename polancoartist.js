@@ -1,3 +1,9 @@
-//cadenas de texto string
+ var video = videojs( 'mivideo');
 
-document.getElementById("cont1").innerHTML = "View:1";
+    document.getElementById('mivideo').onclick = function(){
+        video.play();
+        audio.play();
+    }
+
+
+    
