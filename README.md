@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 </html>
 <html lang="en">
 <head>
@@ -47,8 +47,8 @@
 poster="tvirusportada.png"
 playsinline="true"
 autoplay="false"
-loop="true"
-plaBackRate="true"
+loop="muted"
+muted="false"
   data-setup="{}"
   source src="tipos de virus0001-1143.mp4" 
   type="video/mp4"></video>
@@ -63,7 +63,9 @@ plaBackRate="true"
     controls
     preload="auto"
   poster="tardigrados portada.png"
+  autoplay="false"
   playsinline="true"
+  loop="muted"
     data-setup="{}"
     source src="tardigrados.mp4" 
     type="video/mp4"></video>
@@ -73,6 +75,7 @@ plaBackRate="true"
     class="video-js"
     controls
     preload="auto"
+loop="muted"
   poster="division celular.png"
   playsinline="true"
     data-setup="{}"
