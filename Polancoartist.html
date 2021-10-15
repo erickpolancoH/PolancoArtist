@@ -92,31 +92,7 @@ plaBackRate="true"
 
     <!-- Galeria de arte--> 
 
-    <ul>
-      <li>
-        <img src="pulgon microscopicox.PNG">
-      </li>
-      <!-- ... -->
-      <li>
-        <img src="niracn.PNG">
-      </li>
-     <!-- ... -->
-    <li>
-      <img src="amorfo.PNG">
-    </li>
-
-    <li>
-      <img src="amorfo2.PNG">
-    </li>
-    <li>
-      <img src="acaros.PNG">
-    </li>
-
-    <li>
-      <img src="hembrion.PNG">
-    </li>
-
-  </ul>
+    <img class="responsive" src="hembrion.PNG">
 
    
 
