@@ -88,8 +88,7 @@ plaBackRate="true"
 
 
 
-<script type="text/javascript"></script>
-<script src="polancoartists.js"></script>
+
 
     <!-- Galeria de arte--> 
 
@@ -143,7 +142,8 @@ plaBackRate="true"
 
 </footer>
      
-           
+<script type="text/javascript"></script>
+<script src="polancoartists.js"></script>     
      
      
 
@@ -151,7 +151,7 @@ plaBackRate="true"
 
 
 
- </div>
+ 
 
 
                   
