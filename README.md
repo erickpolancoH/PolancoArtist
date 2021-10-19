@@ -9,16 +9,12 @@
     <link rel="stylesheet" href="View.scss">
     <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet" />
     <link rel="stylesheet" href="normalize.css"> 
-    
+   
    
 </head>
 <body >
 <header>
-  <div class="responsive"></div>
-
- 
   
-  <header>
 <!--este es tu contador-->
 
 <div class="statistics"></div>
@@ -28,102 +24,59 @@
 <!--aqui empieza tu pagina-->
  
   <!--perfil--> 
-  <div class="perfil"></div>
+  <div class="perfil" loading="loading="lazy"></div>
       <!--Nombre-->      
 
     <div class="name">Polancoartist</div>
-           
+       </header> 
+
+
+<p loading="lazy">Nombre:<span loading="lazy">PolancoArtist</span></p>
+<p loading="lazy">Tipo:<span loading="lazy">Open Source</span></p>
+<p>Objetivo:<span loading="lazy">Generar contenido multimedia</span></p>
 
 <!--Galeria de videos va aqui-->
-           
-
- 
-                
-  <video
-  id="mivideo"
-  class="video-js"
-  controls
-  preload="auto"
-poster="tvirusportada.png"
-playsinline="true"
-autoplay="false"
-loop="muted"
-muted="false"
-  data-setup="{}"
-  source src="tipos de virus0001-1143.mp4" 
-  type="video/mp4"></video>
-
-
-
-
-                
-    <video
-    id="mivideo"
-    class="video-js"
-    controls
-    preload="auto"
-  poster="tardigrados portada.png"
-  autoplay="false"
-  playsinline="true"
-  loop="muted"
-    data-setup="{}"
-    source src="tardigrados.mp4" 
-    type="video/mp4"></video>
-  
-    <video
-    id="mivideo"
-    class="video-js"
-    controls
-    preload="auto"
-loop="muted"
-  poster="division celular.png"
-  playsinline="true"
-    data-setup="{}"
-    source src="division celular.mp4" 
-    type="video/mp4"></video>
-  
-  
-  
-  
-
-<!--el codigo de video source-->
-
-
-
-
-
-    <!-- Galeria de arte--> 
-
-    
-
-   
-
-
- 
-<!--galeria publicitaria-->            
-   
-<footer>
-
-  <div class="footer">
-
-
-
-    <a  class="image-content" href="" ></a>
-                                     
-    <a class="image-content" href=""></a>
-   
-        <a class="image-content" href=""></a>
         
 
-        </div>     
+<video
+id="my-video"
+class="video-js"
+controls
+autoplay
+playsinline="true"
+preload="auto"
+width="640"
+height="264"
+poster="demodex.png"
+data-setup="{}"
+source
+src="mundomicroscopico0000-3935.mp4"
+type="video/mp4"
+></video>
 
 
-</footer>
+
+<!-- a link de empresas-->
+<div class="responsive">
+<a class="link" href="#" src="#" loading="lazy" ></a>
+<a class="link" href="#"  src="#" loading="lazy" ></a>
+<a class="link" href="#" src="#" loading="lazy" ></a>
+<a class="link" href="#" src="#" loading="lazy" ></a>
+<a class="link" href="#" src="#"loading="lazy" ></a>
+<a class="link" href="#" src="#"loading="lazy" ></a>
+<a class="link" href="#"src="#"loading="lazy" ></a>
+
+</div>
+   
+
      
-<script type="text/javascript"></script>
+
 <script src="polancoartists.js"></script>     
-     
-     
+                        
+
+ </body>
+</html>
+
 
 
 
@@ -140,6 +93,3 @@ loop="muted"
                          
                                                        
                           
-
- </body>
-</html>
