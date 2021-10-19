@@ -47,10 +47,30 @@ playsinline="true"
 preload="auto"
 width="640"
 height="264"
-poster="demodex.png"
+poster="tardigrado.png"
 data-setup="{}"
 source
-src="mundomicroscopico0000-3935.mp4"
+src="tar0001-0838.mp4"
+type="video/mp4"
+></video>
+
+<p loading="lazy">Nombre:<span loading="lazy">Tardigrado</span></p>
+<p loading="lazy">Tipo:<span loading="lazy">video</span></p>
+<p>audio:<span loading="lazy">none</span></p>
+
+<video
+id="my-video"
+class="video-js"
+controls
+autoplay
+playsinline="true"
+preload="auto"
+width="640"
+height="264"
+poster="tardigrado1.png"
+data-setup="{}"
+source
+src="tardigrado editado.mp4"
 type="video/mp4"
 ></video>
 
@@ -76,6 +96,7 @@ type="video/mp4"
 
  </body>
 </html>
+
 
 
 
