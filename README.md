@@ -15,6 +15,7 @@
 <body >
 <header>
   
+
 <!--este es tu contador-->
 
 <div class="statistics"></div>
@@ -88,6 +89,7 @@ type="video/mp4"
 <a class="btn" href="huevos de tardigrados rodantes0001-0250.mp4" download>Download video</a> 
 
 
+
 <video
 id="my-video"
 class="video-js"
@@ -104,6 +106,34 @@ src="huevos de tardigrados rodantes0001-0250.mp4"
 type="video/mp4"
 ></video>
 
+
+
+<p loading="lazy">Nombre:<span loading="lazy">Tardigrado</span></p>
+<p loading="lazy">Tipo:<span loading="lazy">video</span></p>
+<p>audio:<span loading="lazy">none</span></p>
+<p>press:<span loading="lazy">Download video</span></p>
+<a class="btn" href="tardigrado modelo.stl" download>Download Model</a> 
+
+<video
+id="my-video"
+class="video-js"
+controls
+autoplay
+muted
+playsinline="true"
+preload="auto"
+width="640"
+height="264"
+poster="tardigrado.png"
+data-setup="{}"
+source
+src="modelo de tardigrado low0001-0304.mp4"
+type="video/mp4"
+></video>
+ 
+
+
+
 <!-- a link de empresas-->
 <div class="responsive" loading="lazy">
 <a class="link" href="#" src="#" ></a>
@@ -117,16 +147,11 @@ type="video/mp4"
 </div>
    
 
-     
 
 <script src="polancoartists.js"></script>     
-                        
 
  </body>
 </html>
-
-
-
 
 
 
