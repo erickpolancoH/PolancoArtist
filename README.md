@@ -131,9 +131,6 @@ src="modelo de tardigrado low0001-0304.mp4"
 type="video/mp4"
 ></video>
  
-
-
-
 <!-- a link de empresas-->
 <div class="responsive" loading="lazy">
 <a class="link" href="#" src="#" ></a>
@@ -145,19 +142,17 @@ type="video/mp4"
 <a class="link" href="#"src="#" ></a>
 
 </div>
-   
+<p loading="lazy">Nombre:<span loading="lazy">Visor de modelo 3D</span></p>
+<p loading="lazy">Formato:<span loading="lazy">STL</span></p>
+<p loading="lazy">Estado:<span loading="lazy">Disponible</span></p>
 
+<iframe id="model" src="https://3dviewer.net"></iframe>
 
 <script src="polancoartists.js"></script>     
 
  </body>
 </html>
 
-
-
-
-
- 
 
 
                   
