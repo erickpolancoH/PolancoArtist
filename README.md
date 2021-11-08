@@ -146,16 +146,13 @@ type="video/mp4"
 <p loading="lazy">Formato:<span loading="lazy">STL</span></p>
 <p loading="lazy">Estado:<span loading="lazy">Disponible</span></p>
 
-<iframe id="model" src="https://3dviewer.net"></iframe>
+
 
 <script src="polancoartists.js"></script>     
 
  </body>
 </html>
 
-
-
-                  
 
 
 
