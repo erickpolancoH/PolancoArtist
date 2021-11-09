@@ -89,7 +89,7 @@ type="video/mp4"
 
 <!-- a link de empresas-->
 <div class="responsive" loading="lazy">
-<a class="link" href="https://www.google.com/maps/place/Inemed+(Instituto+de+Especialidades+Medicas+del+Nordeste)/@19.2949631,-70.2570551,15z/data=!4m5!3m4!1s0x0:0xfac45d185715185!8m2!3d19.2949631!4d-70.2570551" alt="Dr armando polanco"src="armandopolanco.png"  target="_blank" ></a>
+<a class="link" href="https://www.facebook.com/drarmandopolanco" alt="Dr armando polanco"src="armandopolanco.png"  target="_blank" ></a>
 <a class="link1" href="https://www.google.com/maps/place/Inemed+(Instituto+de+Especialidades+Medicas+del+Nordeste)/@19.2949631,-70.2570551,15z/data=!4m5!3m4!1s0x0:0xfac45d185715185!8m2!3d19.2949631!4d-70.2570551" alt="Dra Natasha ferreiras"  src="natashaferreiras.png" target="_blank" ></a>
 <a class="link2" href="#" src="#" targhet="_blank" ></a>
 
@@ -101,6 +101,7 @@ type="video/mp4"
 
  </body>
 </html>
+
 
 
                          
