@@ -28,7 +28,7 @@
   <div class="perfil"></div>
       <!--Nombre-->      
 
-    <div class="name">Polancoartist</div>
+    <div class="name">Polancoartist 3D</div>
        </header> 
 
 
@@ -48,101 +48,50 @@ height="264"
 poster="tardigrado.png"
 data-setup="{}"
 source
-src="tar0001-0838.mp4"
+src="tar20001-0561.mp4"
 type="video/mp4"
 ></video>
 
 <p loading="lazy">Nombre:<span loading="lazy">Tardigrado</span></p>
-<p loading="lazy"><a class="btn" href="tar0001-0838.mp4" download>Download video</a> </p>
+<p loading="lazy"><a class="btn" href="tar20001-0561.mp4" download>Download video</a> </p>
 <p>audio:<span loading="lazy">none</span></p>
 <p>Formato:<span loading="lazy">video</span></p>
 
 
-<video
-id="my-video"
-class="video-js"
-controls
-autoplay
-playsinline="true"
-preload="auto"
-width="640"
-height="264"
-poster="tardigrado1.png"
-data-setup="{}"
-source
-src="tardigrado editado.mp4"
-type="video/mp4"
-></video>
-
-
-<p loading="lazy">Nombre:<span loading="lazy">Tardigrado</span></p>
-<p loading="lazy"><a class="btn" href="tardigrado editado.mp4" download>Download video</a> </p>
-<p>audio:<span loading="lazy">none</span></p>
-<p>Formato:<span loading="lazy">video</span></p>
-
-
-
-<video
-id="my-video"
-class="video-js"
-controls
-autoplay
-playsinline="true"
-preload="auto"
-width="640"
-height="264"
-poster="huevos de tardigrados.png"
-data-setup="{}"
-source
-src="huevos de tardigrados rodantes0001-0250.mp4"
-type="video/mp4"
-></video>
+  <div  class="responsive-sketchfab-embed-wrapper"style="text-align:center;" > 
+    <iframe width="100%"
+     height="400" 
+    title="Tardigradomodelo"
+     frameborder="0"    
+    allowfullscreen mozallowfullscreen="true" 
+    webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" 
+    xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/419ea711d5af40a4847dedbe35a53a0e/embed"> 
+  </iframe> <p "style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+     <a href="https://sketchfab.com/3d-models/tardigradomodelo-419ea711d5af40a4847dedbe35a53a0e?utm_medium=embed&utm_campaign=share-popup&utm_content=419ea711d5af40a4847dedbe35a53a0e"
+      target="_blank" 
+      style="font-weight: bold; color: #1CAAD9;"> Tardigradomodelo </a> by 
+      <a href="https://sketchfab.com/bizarrecartoon?utm_medium=embed&utm_campaign=share-popup&utm_content=419ea711d5af40a4847dedbe35a53a0e"
+       target="_blank" 
+       style="font-weight: bold; color: #1CAAD9;"> Erick Polanco </a> on 
+       <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=419ea711d5af40a4847dedbe35a53a0e"
+        target="_blank"
+         style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 
 
 <p loading="lazy">Nombre:<span loading="lazy">Tardigrado</span></p>
-<p loading="lazy"><a class="btn" href="huevos de tardigrados rodantes0001-0250.mp4" download>Download video</a> </p>
-<p>audio:<span loading="lazy">none</span></p>
-<p>Formato:<span loading="lazy">video</span></p>
-
-
-<video
-id="my-video"
-class="video-js"
-controls
-autoplay
-muted
-playsinline="true"
-preload="auto"
-width="640"
-height="264"
-poster="tardigrado.png"
-data-setup="{}"
-source
-src="modelo de tardigrado low0001-0304.mp4"
-type="video/mp4"
-></video>
-<p loading="lazy">Nombre:<span loading="lazy">Tardigrado</span></p>
-<p loading="lazy"><a class="btn" href="tardigrado modelo.stl" download>Download Model</a> </p>
+<p loading="lazy"><a class="btn" href="tardigradomodelo.fbx" download>Download Model</a> </p>
 <p>audio:<span loading="lazy">none</span></p>
 <p>Formato:<span loading="lazy">3Dmodel</span></p>
 
-<p>previsualizador de video mas abajo//<span>arriba se ubica el archivo!...</span></p>
 
-<p >href:<span>website</span></p>
-<p loading="lazy"><a class="btn" href="https://3dviewer.net/" target="blank">3Dmodel Vewer</a></p>
-<p loading="lazy">Formato:<span loading="lazy">Web3dvewer</span></p>
-<p loading="lazy">Estado:<span loading="lazy">Disponible</span></p>
+
 
 <!-- a link de empresas-->
 <div class="responsive" loading="lazy">
-<a class="link" href="#" src="#" ></a>
-<a class="link" href="#"  src="#" ></a>
-<a class="link" href="#" src="#" ></a>
-<a class="link" href="#" src="#" ></a>
-<a class="link" href="#" src="#" ></a>
-<a class="link" href="#" src="#" ></a>
-<a class="link" href="#"src="#" ></a>
+<a class="link" href="https://www.google.com/maps/place/Inemed+(Instituto+de+Especialidades+Medicas+del+Nordeste)/@19.2949631,-70.2570551,15z/data=!4m5!3m4!1s0x0:0xfac45d185715185!8m2!3d19.2949631!4d-70.2570551" alt="Dr armando polanco"src="armandopolanco.png"  target="_blank" ></a>
+<a class="link1" href="https://www.google.com/maps/place/Inemed+(Instituto+de+Especialidades+Medicas+del+Nordeste)/@19.2949631,-70.2570551,15z/data=!4m5!3m4!1s0x0:0xfac45d185715185!8m2!3d19.2949631!4d-70.2570551" alt="Dra Natasha ferreiras"  src="natashaferreiras.png" target="_blank" ></a>
+<a class="link2" href="#" src="#" targhet="_blank" ></a>
 
 </div>
 
