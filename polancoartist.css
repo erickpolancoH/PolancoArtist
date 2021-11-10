@@ -96,7 +96,7 @@ padding: 1%;
 
 }
 
-.link{
+.link1{
   background-color:white;
   background-image: url(armandopolanco.PNG);
   background-size: cover;
@@ -106,7 +106,7 @@ padding: 1%;
   float: right;
 }
 
-.link1{
+.link2{
   background-color:white;
   background-image: url(natashaferreiras.PNG);
   background-size: cover;
@@ -116,7 +116,7 @@ padding: 1%;
   float: right;
 }
 
-.link2{
+.link{
   background-color:white;
   background-image: url(contribuye.png);
   background-size: cover;
