@@ -89,8 +89,8 @@ type="video/mp4"
 
 <!-- a link de empresas-->
 <div class="responsive" loading="lazy">
-  <a class="link1" title="Dr armando miguel Polanco" href="https://www.facebook.com/drarmandopolanco" alt="inemed" target="_blank" ></a>
-  <a class="link2" title="Dra Natasha ferreiras" href="https://www.facebook.com/natasha.ferreiras" alt="inemed" target="_blank" ></a>
+<a href="https://guiamedica.com.do/medicos/dr-miguel-armando-polanco-cirujano-general-san-francisco-de-macoris/"><img src="armandopolanco.PNG" ></a>
+<a href="https://guiamedica.com.do/medicos/dra-nadia-natasha-ferreiras-cirujano-pediatrico-san-francisco-de-macoris/"><img src="natashaferreiras.PNG" ></a>
 </div>
 
 
@@ -99,6 +99,7 @@ type="video/mp4"
 
  </body>
 </html>
+
 
 
                          
