@@ -17,7 +17,7 @@
   
 
 <!--este es tu contador-->
-<img class="responsive-pagelogo" src="polancoartistlogo.png">
+<img class="responsive-pagelogo" src="polancoartistlogo.png"/>
 <div class="statistics"></div>
 
   
