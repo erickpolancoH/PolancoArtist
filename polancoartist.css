@@ -127,15 +127,6 @@ float:left;
 }
 
 
-.responsive-pagelogo{
-  width: 50px;
-  height:50px;
-  border-radius:100%;
-  background-position: cover;
-  background-color: aliceblue;
-  
-}
-
 .statistics{
   color:white;
   width: 100px;
