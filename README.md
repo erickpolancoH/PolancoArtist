@@ -19,7 +19,7 @@
 <!--este es tu contador-->
 
 <div class="statistics"></div>
- 
+ <img class="responsive-pagelogo" src="polancoartistlogo.png">
   
   
 <!--aqui empieza tu pagina-->
