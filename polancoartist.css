@@ -127,6 +127,12 @@ float:left;
 }
 
 
+.responsive-pagelogo{
+  width: 5%;
+  height:auto;
+  border-radius:100%;
+}
+
 .statistics{
   color:white;
   width: 100px;
