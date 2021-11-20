@@ -17,7 +17,7 @@
   
 
 <!--este es tu contador-->
-<a><img src="polancoartistlogo.PNG" ></a>
+<a class="responsive-logo"><img src="polancoartistlogo.PNG" ></a>
 <div class="statistics"></div>
 
   
@@ -85,12 +85,43 @@ type="video/mp4"
 <p>Formato:<span loading="lazy">3Dmodel</span></p>
 
 
+<video
+id="my-video"
+class="video-js"
+controls
+autoplay
+playsinline="true"
+preload="auto"
+width="640"
+height="264"
+poster="Rinonesimage.png"
+data-setup="{}"
+source
+src="rinones.mp4"
+type="video/mp4"
+></video>
+
+<p loading="lazy">Nombre:<span loading="lazy"> riñones </span></p>
+<p loading="lazy"><a class="btn" href="rinones.mp4" download>Download Video</a> </p>
+<p>audio:<span loading="lazy">none</span></p>
+<p>Formato:<span loading="lazy">mp4</span></p>
+
+
+
+<div class="responsive-sketchfab-embed-wrapper"> <iframe width="100%" height="400"  title="Rinon" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/b83e07bb7b35413dafd1fad8b942e7a1/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/rinon-b83e07bb7b35413dafd1fad8b942e7a1?utm_medium=embed&utm_campaign=share-popup&utm_content=b83e07bb7b35413dafd1fad8b942e7a1" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Rinon </a> by <a href="https://sketchfab.com/bizarrecartoon?utm_medium=embed&utm_campaign=share-popup&utm_content=b83e07bb7b35413dafd1fad8b942e7a1" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Erick Polanco </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=b83e07bb7b35413dafd1fad8b942e7a1" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+<p loading="lazy">Nombre:<span loading="lazy"> riñones </span></p>
+<p loading="lazy"><a class="btn" href="Rinon.fbx" download>Download 3D Model</a> </p>
+<p>audio:<span loading="lazy">none</span></p>
+<p>Formato:<span loading="lazy">FBX 3D model</span></p>
+
+<!-- Aviso para dar click a colaboradores-->
 
 
 <!-- a link de empresas-->
 <div class="responsive" loading="lazy">
 <a href="https://erickpolancoh.github.io/Guide/"><img src="armandopolanco.PNG" ></a>
-<a href="https://erickpolancoh.github.io/Guide/"><img src="natashaferreiras.PNG" ></a>
+<a href="https://erickpolancoh.github.io/Guide/"><img src="Screenshot-natasha.jpg" ></a>
 </div>
 
 
