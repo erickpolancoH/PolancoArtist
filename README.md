@@ -9,10 +9,14 @@
     <link rel="stylesheet" href="View.scss">
     <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet" />
     <link rel="stylesheet" href="normalize.css"> 
-   
+    <script src="https://cdn.jsdelivr.net/npm/pace-js@latest/pace.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pace-js@latest/pace-theme-default.min.css">
+
    
 </head>
 <body >
+
+    
 <header>
   
 
@@ -127,9 +131,10 @@ type="video/mp4"
 
 
 <script src="polancoartists.js"></script>     
-
+<script src="https://code.createjs.com/1.0.0/createjs.min.js "></script> 
  </body>
 </html>
+
 
 
 
