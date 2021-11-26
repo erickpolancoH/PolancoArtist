@@ -20,7 +20,7 @@
   
 
 <!--este es tu contador-->
-<a class="responsive-logo" href="https://www.instagram.com/polancoartist/?hl=es "><img src="polancoartistlogo.PNG" ></a>
+<a class="responsive-logo" href="https://www.instagram.com/polancoartist/?hl=es " target="_blank"><img src="polancoartistlogo.PNG" ></a>
 <div class="statistics"></div>
 <!--aqui empieza tu pagina-->
  
@@ -120,8 +120,8 @@ type="video/mp4"
 
 <!-- a link de empresas-->
 <div class="responsive" loading="lazy">
-<a href="https://erickpolancoh.github.io/Guide/"><img src="armandopolanco.PNG" ></a>
-<a href="https://erickpolancoh.github.io/Guide/"><img src="Screenshot-natasha.jpg" ></a>
+<a href="https://erickpolancoh.github.io/Guide/" target="_blank"><img src="armandopolanco.PNG" ></a>
+<a href="https://erickpolancoh.github.io/Guide/"target="_blank"><img src="Screenshot-natasha.jpg" ></a>
 </div>
 
 
@@ -130,6 +130,8 @@ type="video/mp4"
 <script src="https://code.createjs.com/1.0.0/createjs.min.js "></script> 
  </body>
 </html>
+
+
 
 
                          
