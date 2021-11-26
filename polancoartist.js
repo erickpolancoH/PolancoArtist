@@ -1,4 +1,4 @@
-window,alert('Espera un momento para guardar la descarga de la pagina en tu navegadoe!...')
+function alert(){'El contenido se guardara en tu equipo espera un momento, gracias!...'};
  
  var video = videojs( 'mivideo');
 
@@ -8,5 +8,3 @@ window,alert('Espera un momento para guardar la descarga de la pagina en tu nave
        
     }
 
-
-    
