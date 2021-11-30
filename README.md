@@ -48,7 +48,7 @@
 
 <!-- boton next-->
 
-<a class="responsive-btn" href="https://erickpolancoh.github.io/PolancoArtist/ ">Click to the next Page</a>
+<a class="responsive-btn" href="https://erickpolancoh.github.io/Polan3Dvewer/">Click to the next Page</a>
 
 <!--Guide-->
 <div class="responsive" loading="lazy">
@@ -62,6 +62,7 @@
 <script src="https://code.createjs.com/1.0.0/createjs.min.js "></script> 
  </body>
 </html>
+
 
 
 
