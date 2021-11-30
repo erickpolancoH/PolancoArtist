@@ -46,10 +46,11 @@
 
 
 
-<!-- Aviso para dar click a colaboradores-->
+<!-- boton next-->
 
+<a class="responsive-btn" href="https://erickpolancoh.github.io/PolancoArtist/ ">Click to the next Page</a>
 
-<!-- a link de empresas-->
+<!--Guide-->
 <div class="responsive" loading="lazy">
 <a  href="https://erickpolancoh.github.io/Guide/"><img src="armandopolanco.PNG" ></a>
 

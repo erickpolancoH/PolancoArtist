@@ -46,25 +46,21 @@ span{
   color: rgb(0, 255, 106);
 }
 
-#my-video{
-  width: 100%;
-  height: auto;
- margin: 0 auto;
- margin-top: 14px;
+button{
+  margin: 0 auto;
 }
-
-
-.btn{
-  color: rgb(0, 255, 106);
+.responsive-btn{
+  color: rgb(255, 255, 255);
   background-color: rgb(21, 73, 104);
   text-align:center;
   border-radius: 50px;
 margin: 0 auto;
 padding: 1%;
+font-family: 'Roboto', sans-serif;
 }
 
-.btn:hover {
-  color: white;
+.responsive-btn:hover {
+  color: rgb(82, 255, 134);
   background-color: RoyalBlue;
 }
 
