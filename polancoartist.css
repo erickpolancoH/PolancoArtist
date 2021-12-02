@@ -87,7 +87,14 @@ img{
   float: right;
 }
 
-
+.responsive-guide{
+  background-color:white;
+  background-size: cover;
+  border-radius:30px;
+  width: 100px;
+  height: 60px;
+  float: right;
+}
 
 .responsive-video{
   width: 100%;
