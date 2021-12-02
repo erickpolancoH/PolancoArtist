@@ -45,17 +45,11 @@
 <p>Formato:<span loading="lazy">FBX 3D model</span></p>
 
 
-
-<!-- boton next-->
-
-<a class="responsive-btn" href="https://erickpolancoh.github.io/Polan3Dvewer/">Click to the next Page</a>
-
 <!--Guide-->
 <div class="responsive" loading="lazy">
-<a href="https://erickpolancoh.github.io/Guide/"><img class="responsive-guide"src="guidecontribuitor.PNG" ></a>
-
+  <a class="responsive-btn" href="https://erickpolancoh.github.io/Guide/">GUIDE</a>
+  <a class="responsive-btn" href="https://erickpolancoh.github.io/Polan3Dvewer/">Click to the next Page</a>
 </div>
-
 
 
 <script src="polancoartists.js"></script>     
