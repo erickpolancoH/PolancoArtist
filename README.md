@@ -52,7 +52,7 @@
 
 <!--Guide-->
 <div class="responsive" loading="lazy">
-<a  href="https://erickpolancoh.github.io/Guide/"><img src="armandopolanco.PNG" ></a>
+<a href="https://erickpolancoh.github.io/Guide/"><img class="responsive-guide"src="guidecontribuitor.PNG" ></a>
 
 </div>
 
@@ -62,6 +62,8 @@
 <script src="https://code.createjs.com/1.0.0/createjs.min.js "></script> 
  </body>
 </html>
+
+
 
 
 
