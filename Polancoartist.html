@@ -51,7 +51,7 @@
   <a class="responsive-btn" href="https://erickpolancoh.github.io/Polan3Dvewer/">Click to the next Page</a>
 </div>
 
-<p>Download Model:</p>
+
 <a class="btn" href="Rinon.glb" download="rinon.glb" title="Download">Download Model</a>
 
 <script src="polancoartists.js"></script>     
