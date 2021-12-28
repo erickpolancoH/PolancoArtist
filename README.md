@@ -11,7 +11,8 @@
     <link rel="stylesheet" href="normalize.css"> 
     <script src="https://cdn.jsdelivr.net/npm/pace-js@latest/pace.min.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pace-js@latest/pace-theme-default.min.css">
-   
+    <script async src="https://pagead2.googlesyndication.com/.../adsbygoogle.js..."
+    crossorigin="anonymous"></script>
 </head>
 <body >
 
@@ -51,13 +52,15 @@
   <a class="responsive-btn" href="https://erickpolancoh.github.io/Polan3Dvewer/">Click to the next Page</a>
 </div>
 
-
 <a class="btn" href="Rinon.glb" download="rinon.glb" title="Download">Download Model</a>
 
-<script src="polancoartists.js"></script>     
+<script src="polancoartists.js"></script>  
+
+
 <script src="https://code.createjs.com/1.0.0/createjs.min.js "></script> 
  </body>
 </html>
+
 
 
                          
