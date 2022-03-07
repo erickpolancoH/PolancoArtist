@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+             <!DOCTYPE html>
 </html>
 <html lang="en">
 <head>
@@ -11,8 +11,7 @@
     <link rel="stylesheet" href="normalize.css"> 
     <script src="https://cdn.jsdelivr.net/npm/pace-js@latest/pace.min.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pace-js@latest/pace-theme-default.min.css">
-    <script async src="https://pagead2.googlesyndication.com/.../adsbygoogle.js..."
-    crossorigin="anonymous"></script>
+ 
 </head>
 <body >
 
@@ -40,11 +39,11 @@
 <!--modelo t3D-->
 
 
-<div class="responsive-sketchfab-embed-wrapper"> <iframe width="100%" height="500" title="Rinon" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/b83e07bb7b35413dafd1fad8b942e7a1/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/rinon-b83e07bb7b35413dafd1fad8b942e7a1?utm_medium=embed&utm_campaign=share-popup&utm_content=b83e07bb7b35413dafd1fad8b942e7a1" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Rinon </a> by <a href="https://sketchfab.com/bizarrecartoon?utm_medium=embed&utm_campaign=share-popup&utm_content=b83e07bb7b35413dafd1fad8b942e7a1" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Erick Polanco </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=b83e07bb7b35413dafd1fad8b942e7a1" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+<div class="sketchfab-embed-wrapper"> <iframe width="100%" height="500" title="Train Stationblend" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/4b7a3ef969db484da07aac3feb964b80/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/train-stationblend-4b7a3ef969db484da07aac3feb964b80?utm_medium=embed&utm_campaign=share-popup&utm_content=4b7a3ef969db484da07aac3feb964b80" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Train Stationblend </a> by <a href="https://sketchfab.com/bizarrecartoon?utm_medium=embed&utm_campaign=share-popup&utm_content=4b7a3ef969db484da07aac3feb964b80" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Erick Polanco </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=4b7a3ef969db484da07aac3feb964b80" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 <p loading="lazy">Nombre:<span loading="lazy"> riñones </span></p>
 <p>audio:<span loading="lazy">none</span></p>
 <p>Formato:<span loading="lazy">glb 3D model</span></p>
-
 
 <!--Guide-->
 <div class="responsive" loading="lazy">
@@ -52,7 +51,20 @@
   <a class="responsive-btn" href="https://erickpolancoh.github.io/Polan3Dvewer/">Click to the next Page</a>
 </div>
 
-<a class="btn" href="Rinon.glb" download="rinon.glb" title="Download">Download Model</a>
+<a class="btn" href="https://paypal.me/Erickpolanco77?country.x=DO&locale.x=es_XC">colaborate</a>
+
+
+
+<!--Grid-->
+
+
+ 
+
+
+
+
+
+
 
 <script src="polancoartists.js"></script>  
 
@@ -61,8 +73,5 @@
  </body>
 </html>
 
-
-
-                         
-                                                       
+                     
                           
