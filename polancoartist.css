@@ -90,6 +90,16 @@ img{
   float: right;
 }
 
+.promo{
+  background-color:white;
+  background-size: cover;
+  border-radius:15px;
+  width: 100px;
+  height: 60px;
+  float: right;
+  border-style: none;
+}
+
 .responsive-guide{
   background-color:white;
   background-size: cover;
@@ -144,6 +154,10 @@ float:left;
 
 
 
+
+
+
+
 footer{
   background-color:transparent ;
   padding: 1px;
@@ -171,7 +185,16 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubun
 
 }
 
+.colabs {
+  background-color: aliceblue;
+}
+
+
+
+
+
 .btn {
+  float: none;
   background-color: DodgerBlue;
   border: none;
   border-radius: 50px;
@@ -180,14 +203,24 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubun
   cursor: pointer;
   font-size: 20px;
   margin-top: 14px;
-}
+  font-style: none;
+ 
+  
+}q
 
 /* Darker background on mouse-over */
 .btn:hover {
   background-color: RoyalBlue;
 }
 
-
+footer{
+  background-color:transparent ;
+  padding: 1px;
+  width: 100%;
+  margin-top: 1px !important;
+  border-radius:50px;
+  float: left;
+  }
 
 @media (min-width: 1281px) {
   .container{
