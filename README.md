@@ -51,8 +51,11 @@
 <p>Formato:<span loading="lazy">glb 3D model</span></p>
 <!--Guide-->
 
+<section>
+    <a class="btn" href="https://paypal.me/Erickpolanco77?country.x=DO&locale.x=es_XC">colaborate</a>
 
-<a class="btn" href="https://paypal.me/Erickpolanco77?country.x=DO&locale.x=es_XC">colaborate</a>
+</section>
+
 
 
 
@@ -73,6 +76,8 @@
 <script src="https://code.createjs.com/1.0.0/createjs.min.js "></script> 
  </body>
 </html>
+
+
 
 
 
